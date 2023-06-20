@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DevRishabhSinha
 - 👀 I’m interested in machine learning an computational finance
 - 🌱 I’m currently learning about distributed systems architecture.
-- 💞️ I’m looking to collaborate on open source projects in the field of machine learning.
+- 💞️ I’m looking to collaborate on open-source projects in the field of machine learning.
 - 📫 How to reach me rsinha17@umd.edu
 
 <!---
